@@ -9,8 +9,8 @@ using namespace std;
 
 void Instruction() {
     cout << "Поддерживаемые операции:" << endl;
-    cout << "  -o tan 'x'   (Значение тангенса" << endl;
-    cout << "  -o cot 'x'   (Значение котангенса " << endl;
+    cout << "  -o tan 'x'   (Значение тангенса)" << endl;
+    cout << "  -o cot 'x'   (Значение котангенса)" << endl;
 }
 
 int main(int argc, char* argv[]) {
